@@ -14,7 +14,7 @@
       $text = trim(strip_tags($_POST['text']));
       $order = trim(strip_tags($_POST['order']));
 
-      mail('repz3@yandex.ru', 'Вова, тебе сделан заказ с сайта Молот-Торта',
+      mail('berezhnoivv59@gmail.com', 'Владимир, тебе сделан заказ с сайта Молот-Торта',
       'Номер телефона: '.$phone.'<br />Имя заказчика: '.$name.'<br />
       Удобное время для звонка '.$time.'<br /> Заказ '.$order.'<br />
       Сообщение: '.$text,'Content-type:text/html;charset=UTF-8');
