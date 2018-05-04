@@ -5,12 +5,12 @@
   margin: 0 15px;
   box-shadow: none;
 }
-.btn-outline-primary{
+.btn-primary{
   background: #EF5256;
   color: whitesmoke;
   border: none;
 }
-.btn-outline-primary:hover{
+.btn-primary:hover{
   background: whitesmoke;
   color: firebrick;
 }
