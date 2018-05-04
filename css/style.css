@@ -5,12 +5,10 @@
   margin: 0 15px;
   box-shadow: none;
 }
-.button{
-
-}
 .btn-outline-primary{
-  background: firebrick;
+  background: #EF5256;
   color: whitesmoke;
+  border: none;
 }
 .btn-outline-primary:hover{
   background: whitesmoke;
@@ -19,3 +17,10 @@
 img{
   box-shadow: 3px 3px 10px grey;
 }
+
+.line {
+  border-top: 25px solid black;
+  margin-top: 35px;
+  width: 100%;
+}
+
