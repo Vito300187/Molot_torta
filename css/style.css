@@ -1,19 +1,23 @@
-.image-1{
+.image-1 {
   margin: 0 auto;
 }
+
 .image-1 img{
   margin: 0 15px;
   box-shadow: none;
 }
-.btn-primary{
+
+.btn-primary {
   background: #EF5256;
   color: whitesmoke;
   border: none;
 }
-.btn-primary:hover{
+
+.btn-primary:hover {
   background: whitesmoke;
   color: firebrick;
 }
+
 img{
   box-shadow: 3px 3px 10px grey;
 }
@@ -22,8 +26,4 @@ img{
   border-top: 25px solid black;
   margin-top: 35px;
   width: 100%;
-}
-
-.photo {
-
 }
