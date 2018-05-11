@@ -1,4 +1,4 @@
-<meta http-equiv='refresh' content='1; url=http://kuzminova.com/test.html'>
+<meta http-equiv='refresh' content='1; url=молот-торта.рф'>
 <meta charset="UTF-8" />
 
 <?php
